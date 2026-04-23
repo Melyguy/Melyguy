@@ -5,10 +5,10 @@ I love learning and experimenting with new technologies and diverse projects. I'
 I love making games in unity with C#
 
 Here are my favorite technologies, tools and languages:
-- *📖 languages:*
-- *⏬ Backend:*
-- *🎞️ Frameworks:*
-- *🛠️ Tools:*
+- *📖 languages:* TypeScript, C#, Python, C++
+- *⏬ Backend:* EntityFramework, PostreSQL, Prisma
+- *🎞️ Frameworks:* NextJs, Angular, React Native, Tailwind CSS
+- *🛠️ Tools:* Unity, Vercel, Unity, FL studio, Blender, VSC and VS
 
 
 <!--
