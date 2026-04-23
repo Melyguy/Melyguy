@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+## I'm 3XM or melyguy I'm a dev from Norway.
+
 
 <!--
 **Melyguy/Melyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
