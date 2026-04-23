@@ -1,5 +1,6 @@
 # Hi there 👋
 ## I'm 3XM or melyguy I'm a dev from Norway.
+I love learning and experimenting with new technologies and diverse projects.
 
 
 <!--
