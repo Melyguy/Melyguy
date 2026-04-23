@@ -1,6 +1,14 @@
 # Hi there 👋
 ## I'm 3XM or melyguy I'm a dev from Norway.
-I love learning and experimenting with new technologies and diverse projects.
+I love learning and experimenting with new technologies and diverse projects. I'm currently studying Information technology here in Norway.
+
+I love making games in unity with C#
+
+Here are my favorite technologies, tools and languages:
+- *📖 languages:*
+- *⏬ Backend:*
+- *🎞️ Frameworks:*
+- *🛠️ Tools:*
 
 
 <!--
