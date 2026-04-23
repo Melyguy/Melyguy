@@ -1,6 +1,5 @@
 # Hi there 👋
-## I'm 3XM or melyguy I'm a dev from Norway.
-I love learning and experimenting with new technologies and diverse projects. I'm currently studying Information technology here in Norway.'
+## I'm 3XM or melyguy I'm a dev from Norway. I love learning and experimenting with new technologies and diverse projects. I'm currently studying Information technology here in Norway.'
 ----
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=vercel)](https://portfolio-react-typescript-virid.vercel.app/)
 
