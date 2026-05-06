@@ -8,7 +8,7 @@
 I love making games in unity with C#
 
 Here are my favorite technologies, tools and languages:
-- *📖 languages:* TypeScript, C#, Python, C++
+- *📖 languages:* TypeScript, C#, Python, C++, Q#
 - *⏬ Backend:* EntityFramework, PostreSQL, Prisma
 - *🎞️ Frameworks:* NextJs, Angular, React Native, Tailwind CSS
 - *🛠️ Tools:* Unity, Vercel, Unity, FL studio, Blender, VSC and VS
